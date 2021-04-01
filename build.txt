@@ -1,0 +1,9 @@
+displayName = [c/eb98f9:X-Tale Universe Mod]
+author = X-Tale Frisk
+version = 2.6
+homepage = https://undercards.net/
+hideCode = true
+hideResources = ture
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
