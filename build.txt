@@ -1,6 +1,6 @@
 displayName = [c/eb98f9:X-Tale Universe Mod]
 author = X-Tale Frisk
-version = 2.7
+version = 2.8
 homepage = https://undercards.net/
 hideCode = true
 hideResources = ture
